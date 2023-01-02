@@ -1,0 +1,38 @@
+.hidden {
+  display: none !important;
+}
+.flex {
+  display: flex;
+}
+.main-fill-blanks {
+  display: flex;
+}
+.fill-blanks-init-txt-input {
+  width: 700px;
+  height: 500px;
+}
+.fill-blanks-game,
+.fill-blanks-init {
+  background-color: aliceblue;
+  display: flex;
+  flex-direction: column;
+}
+.fill-blanks-start-btn {
+  width: 20%;
+  margin-top: 10px;
+  padding: 4px 4px 4px 4px;
+  font-weight: 600;
+  background-color: aquamarine;
+}
+.fill-blanks-start-btn:hover {
+  background-color: rgb(28, 255, 179);
+}
+.fill-blanks-start-btn:active {
+  background-color: rgb(18, 143, 101);
+}
+.center-flex-item {
+  align-self: center;
+}
+
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
